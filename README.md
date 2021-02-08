@@ -2,8 +2,10 @@
 A 23Y/O Android Developer from Brazil.
 
 
+- 💻 I’m currently working at @globocom
+- 🌱 I’m currently improving my skills at Kotlin    
+- 📝 [Resume](https://docs.google.com/document/d/13_mCx5B66w7l02BddJWyvpR-OAXIlOOmYeR7iV2LvUE/edit?usp=sharing)
 
-🌱 I’m currently working at @globocom
 
 **Languages:**  
 
@@ -11,6 +13,7 @@ A 23Y/O Android Developer from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
+**📈 My GitHub Stats:**   
 ![Gvictorino's github stats](https://github-readme-stats.vercel.app/api?username=Gvictorino&show_icons=true&hide=["issues"])
 
 <p align='center'>
