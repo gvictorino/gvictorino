@@ -1,5 +1,5 @@
 ### Hi there, I'm Giovanna :ok_woman:,
-A 26Y/O Android Developer from Brazil.
+A 28Y/O Android Developer from Brazil.
 
 
 - 💻 I’m currently working at @globocom
